@@ -3,6 +3,7 @@
 NumpyCL is a Python3 library built on top of OpenCL for fast computation  
 
 ## Why it exists?
+Imagine having a numpy that can run on any CPU or any GPU(AMD, NVIDIA) or both at the same time
 To address a problem I had and still have while learning Deep Neural Networks.  
 Writing fast NeuralNets from scratch without TensowFlow or Pytorch.  
 Fast could also mean C, but as we have Windows and Linux and MAC and I am not a startup, I do not have the time.  
