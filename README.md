@@ -31,7 +31,7 @@ I am developing this as I go through the Standford's CS213n course on ComputerVi
 Once I have more time, I will refactor code and add useful commentaries.  
 
 ## Tests
-No tests are developed... YET!  
+Only one test case per each function
 
 ## Early Future improvements
 Broadcasting will be added(the same as numpy)  
